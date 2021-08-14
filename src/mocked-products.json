@@ -1,0 +1,137 @@
+[
+ {
+    "_id": 1,
+    "imag": "./Styles/main/IMG/IMG-20210725-WA0003.jpg",
+    "ProductName": "Blue Bag",
+    "author": "Danny Dedjala",
+    "tags": ["school","children","fashion"],
+    "AvailableQty": 70 ,
+    "price": "50.7"
+},
+{
+    "_id": 2,
+    "imag": "./Styles/main/IMG/IMG-20210723-WA0011.jpg",
+    "ProductName": "Snapback and Shoes",
+    "author": "Danny Dedjala",
+    "tags": ["snapback","shoes","sandals"],
+    "AvailableQty": 45,
+    "price": "75.7"
+},
+{
+    "_id": 3,
+    "imag": "./Styles/main/IMG/IMG-20210723-WA0009.jpg",
+    "ProductName": "Pink Shoes",
+    "author": "Danny Dedjala",
+    "tags": ["sandals"," pink"," white"],
+    "AvailableQty": 33,
+    "price": "40.78"
+},
+{
+    "_id": 4,
+    "imag": "./Styles/main/IMG/IMG-20210724-WA0033.jpg",
+    "ProductName": "Summer Shoes",
+    "author": "Danny Dedjala",
+    "tags": ["summer","afro"," shoes"],
+    "AvailableQty": 25,
+    "price": "90.6"
+},
+{
+    "_id": 5,
+    "imag": "./Styles/main/IMG/IMG-20210723-WA0006.jpg",
+    "ProductName": "Sandals",
+    "author": "Danny Dedjala",
+    "tags": ["Sandals","new year","sun"],
+    "AvailableQty": 65,
+    "price": "30.5"
+},
+{
+    "_id": 6,
+    "imag": "./Styles/main/IMG/IMG-20210724-WA0001.jpg",
+    "ProductName": "Afro Shirt",
+    "author": "Danny Dedjala",
+    "tags": ["Men","Boys","Respo"],
+    "AvailableQty": 35,
+    "price": "120"
+},
+{
+    "_id": 7,
+    "imag": "./Styles/main/IMG/IMG-20210723-WA0002.jpg",
+    "ProductName": "Sunshine",
+    "author": "Danny Dedjala",
+    "tags": ["Men","Women","Mixte"],
+    "AvailableQty": 155,
+    "price": "80"
+},
+{
+    "_id": 8,
+    "imag": "./Styles/main/IMG/IMG-20210724-WA0002.jpg",
+    "ProductName": "Yellow Shirt",
+    "author": "Danny Dedjala",
+    "tags": ["Respo","Brand","Bright"],
+    "AvailableQty": 55,
+    "price": "280.5"
+},
+{
+    "_id": 9,
+    "imag": "./Styles/main/IMG/IMG-20210724-WA0031.jpg",
+    "ProductName": "Afro Timberland",
+    "author": "Danny Dedjala",
+    "tags": ["young","Mixte","spring"],
+    "AvailableQty": 110,
+    "price": "350.3"
+},
+{
+    "_id": 10,
+    "imag": "./Styles/main/IMG/IMG-20210724-WA0040.jpg",
+    "ProductName": "Afro Design Wallet",
+    "author": "Danny Dedjala",
+    "tags": ["Women","Girls","Style"],
+    "AvailableQty": 95,
+    "price": "38.3"
+},
+{
+    "_id": 11,
+    "imag": "./Styles/main/IMG/IMG-20210724-WA0034.jpg",
+    "ProductName": "Lady Handbag",
+    "author": "Danny Dedjala",
+    "tags": ["Women","Shopping","bag"],
+    "AvailableQty": 22,
+    "price": "358.6"
+},
+{
+    "_id": 12,
+    "imag": "./Styles/main/IMG/IMG-20210725-WA0008.jpg",
+    "ProductName": "Schoolbag",
+    "author": "Danny Dedjala",
+    "tags": ["Children","School","bag"],
+    "AvailableQty": 250,
+    "price": "136.8"
+},
+{
+    "_id": 13,
+    "imag": "./Styles/main/IMG/IMG-20210723-WA0009.jpg",
+    "ProductName": "Unicolor Shoes",
+    "author": "Danny Dedjala",
+    "tags": ["Fashion","Espadrilles","sun"],
+    "AvailableQty": 96,
+    "price": "25.8"
+},
+{
+    "_id": 14,
+    "imag": "./Styles/main/IMG/IMG-20210725-WA0010.jpg",
+    "ProductName": "Schoolbag blue",
+    "author": "Danny Dedjala",
+    "tags": ["Teenager","School","fun"],
+    "AvailableQty": 16,
+    "price": "450.3"
+},
+{
+    "_id": 15,
+    "imag": "./Styles/main/IMG/IMG-20210724-WA0035.jpg",
+    "ProductName": "Shoes hat T-shirt",
+    "author": "Danny Dedjala",
+    "tags": ["Teenager"," Design","blue"],
+    "AvailableQty": 54,
+    "price": "97.3"
+}
+]

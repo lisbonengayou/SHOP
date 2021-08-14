@@ -1,0 +1,15 @@
+@mixin btn {
+    outline: none;
+            background-color: transparent;
+            border: solid 3px $color-black;
+            height: 36px;
+            padding: 0 20px;
+            font-size: 18px;
+            margin-left: 20px;
+            cursor: pointer;
+             transition: 0.3s all;
+            &:hover {
+                background-color: $color-green;
+                color: $color-white;
+            }
+}

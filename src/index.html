@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Styles/reset.css">
+    <link rel="stylesheet" href="./Styles/Header/header.css">
+    <link rel="stylesheet" href="Styles/main/main.css">
+    <link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" 
+    integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" 
+    crossorigin="anonymous" 
+    referrerpolicy="no-referrer" />
+    
+    <title>Afro Style Shop</title>
+</head>
+<body>
+     <header class="header">
+         <form action="" class="form">
+          <input type="text" class="product-search" placeholder="enter your query">
+           <button class="product-search-btn" type="submit">Search</button>
+         </form>
+         
+         <div class="sort">
+             <span class="asc">From lowest price</span>
+             <span class="dsc">From Highest price</span>
+         </div>
+
+         <select class="select">
+            <option value="UAH">UAH</option>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+        </select>
+
+         <div class="cart-info-wrapper">
+             <i class="fas fa-cart-plus"></i>
+             <span class="cart-size">0</span>
+             <button class="go-to-cart">Go to Cart</button>
+         </div>
+     </header>
+     <main class="main">
+         <ul class="products">
+         </ul>
+     </main>
+
+     <script type="module" src="index.js"></script>
+</body>
+</html>
